@@ -14,6 +14,10 @@ It covers the full lifecycle of donated blood, from donor registration and labor
 The main goal of the project was to demonstrate solid database design principles and the practical use of advanced SQL features such as views, stored functions, procedures, and triggers.
 
 ---
+## 🗺️ Entity-Relationship Diagram
+
+![Entity-Relationship Diagram](docs/er_diagram.png)
+---
 
 ## 🧱 Core Features
 
